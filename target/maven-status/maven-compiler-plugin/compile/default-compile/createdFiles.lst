@@ -6,7 +6,6 @@ com\qa\projectManagementApp\repo\UserRepo.class
 com\qa\projectManagementApp\controller\ActionListController.class
 com\qa\projectManagementApp\Security\MySecurityConfig.class
 com\qa\projectManagementApp\service\ServiceAuthHelper.class
-com\qa\projectManagementApp\entities\ActionList.class
 com\qa\projectManagementApp\Exception\UserNotFoundException.class
 com\qa\projectManagementApp\service\UserService.class
 com\qa\projectManagementApp\repo\ActionListRepo.class
@@ -14,6 +13,7 @@ com\qa\projectManagementApp\AppConfig.class
 com\qa\projectManagementApp\DTO\UserDTO.class
 com\qa\projectManagementApp\entities\Login.class
 com\qa\projectManagementApp\repo\LoginRepo.class
+com\qa\projectManagementApp\entities\Actionlist.class
 com\qa\projectManagementApp\Security\CustomUserDetails.class
 com\qa\projectManagementApp\ProjectMangementAppApplication.class
 com\qa\projectManagementApp\Security\SecurityInitialiser.class
