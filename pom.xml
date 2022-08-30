@@ -15,7 +15,7 @@
 	<name>projectMangementApp</name>
 	<description>Full Stack Project Mangement App</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>18</java.version>
 	</properties>
 
 	<dependencies>
