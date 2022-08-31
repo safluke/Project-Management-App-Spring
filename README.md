@@ -1,6 +1,6 @@
-# Project-Management-Web-App  https://safluke.github.io/Project-Management-App-Front-End/
+# Project-Management-Web-App  
 App to help manage deadlines
-
+https://safluke.github.io/Project-Management-App-Front-End/
 In this project I make use of the Java Spring Boot Framework to create a backend application that is fully CRUD functional. Data is persisted onto a relational database and can be accessed via allowed REST API endpoints. To test
 application a series of unit tests were designed on Mockito and POSTMAN was used to mimic a front-end interface.
 This has been progressed so that a front-end for this application has been made using HTML CSS and Javascript. Dilligence in secure practise and assigning user access roles help to maintain the security of the database. 
